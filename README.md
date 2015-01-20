@@ -1,2 +1,1 @@
-# springmvc-springdata-mongodb
-Spring MVC + Spring Data + MongoDB
+# Spring MVC + Spring Data + MongoDB
