@@ -1,1 +1,1 @@
-# Spring MVC + Spring Data + MongoDB
+# Spring Data + MongoDB
